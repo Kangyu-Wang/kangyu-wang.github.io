@@ -1,9 +1,15 @@
 
 ## Peer-reviewed
 
-- **Relational levelling down**, *The 22nd Pavia Graduate Conference in Political Philosophy* </br>
-  Università di Pavia, Italy, 24-25/9/2024 
-- **What’s wrong with Sartre’s student flipping a coin?**, *Salzburg Conference for Young Analytic Philosophy: SOPhiA 2024* </br>
+- **Private bank monies are good**, *2025 Warwick Graduate Conference in Political & Legal Theory* </br>
+  University of Warwick, 22/2/2025
+- **When not to pick casually**, *PPE Society 8th Annual Meeting* </br>
+  New Orleans, 16/11/2024
+- **Asset allocation, capital allocation, and two moral deficits of modern finance**, *PPE Society 8th Annual Meeting* </br>
+  New Orleans, 16/11/2024
+- **How AI Challenges Prudential Regulation**, *3rd International Conference on the Ethics of Artificial Intelligence* </br>
+  University of the Azores, Ponta Delgada, Portugal, 19/9/2024
+- **When to flip a coin?**, *Salzburg Conference for Young Analytic Philosophy: SOPhiA 2024* </br>
   University of Salzburg, Austria, 11-13/9/2024 
 - **An internalist approach to hard choices**, *Understanding Value XII* </br>
   The University of Sheffield, England, 15-17/7/2024 
@@ -33,7 +39,9 @@
 &nbsp;
 
 ## Invited
-- **AI for Finance, Measure of Uncertainty, and New Challenges to Prudential Regulation**, *The Machine Intelligence and Normative Theory Lab* </br>
+- **Investment returns, risk appetites, luck egalitarianism, and the put seller of the last resort**, *LSE Choice Group*
+  LSE, 9/10/2024
+- **How AI Challenges Prudential Regulation**, *The Machine Intelligence and Normative Theory Lab* </br>
   Australian National University, 15/8/24
 - **When to flip a coin? An internalist approach to hard choices**, *Value Theory Discussion Group* </br>
   Rutgers-New Brunswick, New Jersey, 5/4/2024

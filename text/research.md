@@ -1,13 +1,13 @@
 I’m a philosopher working mainly on decision theory and practical reason, moral and political philosophy, philosophy of economics and finance, and philosophy of AI/ML.
 
+I currently have a thesis-constituting paper on hard choice R&R-ed by *Analysis*. You can find my talks in my CV.
+
 My PhD thesis, tentatively titled **Life Choices**, answers the following questions: 
 - Why are some hard choices harder than other hard choices?
 - How to genuinely resolve a hard choice?
 - What is rational for one to do when one foresees that one’s preferences will change profoundly in the future, especially due to transformative experiences?
 - What makes some activities in our lives meaningful while others are not meaningful and to what extent does a meaningful life need to be project-driven?
 - And how should we think about our temporarily extended agencies to make sense of the importance of long-term commitments and projects given that people can and sometimes should change?
-
-I currently have a thesis-constituting paper on hard choice R&R-ed by *Analysis*.
 
 For a glimpse of my view on hard choices, you can read this [book review](https://www.cambridge.org/core/journals/economics-and-philosophy/article/value-incommensurability-ethics-risk-and-decisionmaking-henrik-andersson-and-anders-herlitz-ed-routledge-2022-viii269-pages/BFD9EB3700CB8E7E70AF95349B0CB656) I coauthored with Campbell Brown. 
 

@@ -1,6 +1,6 @@
 I’m a philosopher working mainly on decision theory and practical reason, moral and political philosophy, philosophy of economics and finance, and philosophy of AI/ML.
 
-I currently have a thesis-constituting paper on hard choice R&R-ed by *Analysis*. You can find my talks in my CV.
+I currently have a thesis-constituting paper on hard choice under **Major Revision** at *Analysis*. You can find my talks in my CV.
 
 My PhD thesis, tentatively titled **Life Choices**, answers the following questions: 
 - Why are some hard choices harder than other hard choices?

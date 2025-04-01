@@ -1,1 +1,1 @@
-<img src="assets/weather.png?hour=2025-04-01-14" alt="clear sky" width="25" height="25" style="vertical-align:middle;position:relative;top:-1pt;"/> 13&deg;C, clear sky in my [**hometown**](https://en.wikipedia.org/wiki/Beijing) now. [**Data source**](https://openweathermap.org/).
+<img src="assets/weather.png?hour=2025-04-19-00" alt="clear sky" width="25" height="25" style="vertical-align:middle;position:relative;top:-1pt;"/> 12&deg;C, clear sky in my [**hometown**](https://en.wikipedia.org/wiki/Beijing) now. [**Data source**](https://openweathermap.org/).

@@ -1,17 +1,16 @@
 I’m a philosopher working mainly on decision theory and practical reason, moral and political philosophy, philosophy of economics and finance, and philosophy of AI/ML.
 
-I currently have a thesis-constituting paper on hard choice under **Major Revision** at *Analysis*. You can find my talks in my CV.
-
-My PhD thesis, tentatively titled **Life Choices**, answers the following questions: 
-- Why are some hard choices harder than other hard choices?
-- How to genuinely resolve a hard choice?
-- What is rational for one to do when one foresees that one’s preferences will change profoundly in the future, especially due to transformative experiences?
-- What makes some activities in our lives meaningful while others are not meaningful and to what extent does a meaningful life need to be project-driven?
-- And how should we think about our temporarily extended agencies to make sense of the importance of long-term commitments and projects given that people can and sometimes should change?
+My PhD thesis, titled **Hard Choices and Human Agency**, has five chapters:
+- Hard Choices and Practical Reason
+- The Resolution of Hard Choice and Human Agency
+- Hard Choices and the Deep-Self
+- Hard Choices and Preference Changes
+- Hard Choices and Machine Learning Agents
+I also study political philosophy, applied ethics, and the meaning in life. More details on my PhD research, side projects, and public engagement can be found in my CV.
 
 For a glimpse of my view on hard choices, you can read this [book review](https://www.cambridge.org/core/journals/economics-and-philosophy/article/value-incommensurability-ethics-risk-and-decisionmaking-henrik-andersson-and-anders-herlitz-ed-routledge-2022-viii269-pages/BFD9EB3700CB8E7E70AF95349B0CB656) I coauthored with Campbell Brown. 
 
-My two main applied research projects are concerning (1) Philosophy of AI/ML, and (2) Philosophy of Finance. 
+In the coming years, I plan to pursue two main research projects in the Philosophy of AI/ML and the Philosophy of Finance. 
 
 Regarding **AI/ML**, I am currently working on the following issues:
 - Do AIs, especially those using multiple-objective reinforcement learning, have any genuine hard choice? If not, why does this matter regarding alignment and what should we do about that? What does this tell us about the distinctiveness of human agency?
@@ -26,6 +25,6 @@ Many parts of my works in the **philosophy of finance** flow out from my interes
 - Central banking, especially the way central banks inject liquidity and its normative impacts.
 - Social costs of financialization and the power of financiers to manipulate the risk attitudes of other people.
 
-I am also collaborating on some issues in philosophy of finance with my friend [Paul Forrester (Yale)](https://philosophy.yale.edu/people/paul-forrester). For example, we’ve been thinking about the connection between the divergence in investment returns in the long run between the rich and the poor and the difference in their risk appetites which is largely a matter of brute luck. We are also thinking about the ethics of social capital allocation and the intergenerational distributive inequality of financial assets.
+I am also collaborating on some issues in philosophy of finance with my friend [Paul Forrester (Yale/Wharton)](https://philosophy.yale.edu/people/paul-forrester). For example, we’ve been thinking about the connection between the divergence in investment returns in the long run between the rich and the poor and the difference in their risk appetites which is largely a matter of brute luck. We are also thinking about the ethics of social capital allocation and the intergenerational distributive inequality of financial assets. I have co-proposed two panels on the Philosophy of Banking together with [Violet Victoria](https://philpeople.org/profiles/violet-victoria) and [Valerie Schreur](https://www.uva.nl/en/profile/s/c/v.schreur/v.schreur.html?cb). More details can be found in my CV.
 
 There are also other side-projects. Feel free to contact me if you are interested!

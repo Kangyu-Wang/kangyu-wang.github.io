@@ -5,7 +5,8 @@ My PhD thesis, titled **Hard Choices and Human Agency**, has five chapters:
 - The Resolution of Hard Choice and Human Agency
 - Hard Choices and the Deep-Self
 - Hard Choices and Preference Changes
-- Hard Choices and Machine Learning Agents
+- Hard Choices and Machine Learning Agents - [arXiv link](http://arxiv.org/abs/2504.15304)
+
 I also study political philosophy, applied ethics, and the meaning in life. More details on my PhD research, side projects, and public engagement can be found in my CV.
 
 For a glimpse of my view on hard choices, you can read this [book review](https://www.cambridge.org/core/journals/economics-and-philosophy/article/value-incommensurability-ethics-risk-and-decisionmaking-henrik-andersson-and-anders-herlitz-ed-routledge-2022-viii269-pages/BFD9EB3700CB8E7E70AF95349B0CB656) I coauthored with Campbell Brown. 

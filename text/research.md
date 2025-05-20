@@ -1,11 +1,11 @@
 I’m a philosopher working mainly on decision theory and practical reason, moral and political philosophy, philosophy of economics and finance, and philosophy of AI/ML.
 
-My PhD thesis, titled **Hard Choices and Human Agency**, has five chapters:
-- Hard Choices and Practical Reason
-- The Resolution of Hard Choice and Human Agency
-- Hard Choices and the Deep-Self
-- Hard Choices and Preference Changes
-- Hard Choices and Machine Learning Agents - [arXiv link](http://arxiv.org/abs/2504.15304)
+My PhD thesis, titled **Hard Choices and Human Agency**, has five chapters studying the following five questions:
+1.	Which theory of the nature of practical reason can help us make sense of the presence and resolution of hard choices, that is, decision-making cases in which options are incommensurable? 
+2.	How is it possible for human agents to genuinely resolve hard choices through deliberation given that options are incommensurable?
+3.	Why is it that picking arbitrarily when encountering hard choices is fitting in some cases but not in other cases? How should we understand the normative importance of the genuine resolution of hard choices?
+4.	How should we understand the resolution of hard choices with respect to rational requirements on dynamic decision-making and the notion of temporally extended agency.
+5.	Why are machine learning agents unable to identify or resolve hard choices? Why does this matter? What does that say about the distinctiveness of human agency? - [arXiv link](http://arxiv.org/abs/2504.15304)
 
 I also study political philosophy, applied ethics, and the meaning in life. More details on my PhD research, side projects, and public engagement can be found in my CV.
 
@@ -14,8 +14,9 @@ For a glimpse of my view on hard choices, you can read this [book review](https:
 In the coming years, I plan to pursue two main research projects in the Philosophy of AI/ML and the Philosophy of Finance. 
 
 Regarding **AI/ML**, I am currently working on the following issues:
-- Do AIs, especially those using multiple-objective reinforcement learning, have any genuine hard choice? If not, why does this matter regarding alignment and what should we do about that? What does this tell us about the distinctiveness of human agency?
-- What are the practical and normative implications of the Uncertainty Quantification problem in machine learning? Should we radically revise the way we understand and deal with uncertainty because of this problem?
+- Mechanistic interpretability of AIs and mentalistic interpretability of humans: similarities and dissimilarities
+- ML/AI-based/facilitated decision-Making under uncertainty and the Uncertainty Quantification problem
+- LLM-based multi-agent systems and the emerging simulation-based philosophical/social science methodology
 I am also interested in other AI/ML-related philosophical issues.
 
 I have recently been on *Toronto Centre Podcasts* by [Toronto Centre](https://torontocentre.org), a global leader in financial regulation, to discuss how the use of AI can have significant impacts on financial regulation. You can listen to the podcast [here](https://blubrry.com/torontocentrepodcasts/141786172/ep-157-artificial-intelligence-and-prudential-supervision/). You can also read my earlier [LSE Philosophy blog article](https://www.lse.ac.uk/philosophy/blog/2024/08/05/how-ai-challenges-prudential-regulation/) on this topic.

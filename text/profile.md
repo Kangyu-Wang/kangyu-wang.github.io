@@ -4,6 +4,10 @@ I mainly work on practical reason and decision theory, moral and political philo
 
 I received an LL.B. Philosophy, Politics and Economics from [Renmin University of China](https://en.ruc.edu.cn/) and an [MSc Philosophy and Public Policy](https://www.lse.ac.uk/study-at-lse/graduate/msc-philosophy-and-public-policy#) from LSE. I was a visiting PhD student at the [Australian National University](https://philosophy.cass.anu.edu.au), [University of Toronto](https://philosophy.utoronto.ca), and [Rutgers-New Brunswick](https://aristotle.rutgers.edu), sponsored respectively by [Prof Katie Steele](https://katiesteelephilosophy.weebly.com/), [Prof Sergio Tenenbaum](https://www.sergiotenenbaum.org/homepage.html), and [Prof Mike Otsuka](https://sites.rutgers.edu/michael-otsuka/people/michael-otsuka/).
 
-I co-organise [the LSE Choice Group](https://www.lse.ac.uk/philosophy/choice-group/). I am also a Research Affiliate at [The Machine Intelligence and Normative Theory (MINT) Lab](https://mintresearch.org), Australian National University. I reviewed for *Synthese*, *Philosophy, Politics & Economics*, and *AAAI/ACM AIES*. Ziming Xia (Wharton) and I translated [Prof. Alex Voorhoeve's](https://personal.lse.ac.uk/voorhoev/) [Conversations on Ethics](https://academic.oup.com/book/49534) into Chinese as [善哉问](https://book.douban.com/subject/37071728/).
+I co-organise [the LSE Choice Group](https://www.lse.ac.uk/philosophy/choice-group/). I am also a Research Affiliate at [The Machine Intelligence and Normative Theory (MINT) Lab](https://mintresearch.org), Australian National University. I reviewed for *Synthese*, *Philosophy, Politics & Economics*, and *AAAI/ACM AIES*. 
+
+I have been on *Toronto Centre Podcasts* by [Toronto Centre](https://torontocentre.org), a global leader in financial regulation, to discuss how the use of AI can have significant impacts on financial regulation. You can listen to the podcast [here](https://blubrry.com/torontocentrepodcasts/141786172/ep-157-artificial-intelligence-and-prudential-supervision/).
+
+Ziming Xia (St Andrews/Wharton) and I translated our teacher [Prof. Alex Voorhoeve's](https://personal.lse.ac.uk/voorhoev/) [Conversations on Ethics](https://academic.oup.com/book/49534) into Chinese as [善哉问](https://book.douban.com/subject/37071728/).
 
 [CV link](/assets/Kangyu_Wang_CV_25.6.2.pdf)

@@ -11,15 +11,13 @@ I also study political philosophy, applied ethics, and the meaning in life. More
 
 For a glimpse of my view on hard choices, you can read this [book review](https://www.cambridge.org/core/journals/economics-and-philosophy/article/value-incommensurability-ethics-risk-and-decisionmaking-henrik-andersson-and-anders-herlitz-ed-routledge-2022-viii269-pages/BFD9EB3700CB8E7E70AF95349B0CB656) I coauthored with Campbell Brown. 
 
-In the coming years, I plan to pursue two main research projects in the Philosophy of AI/ML and the Philosophy of Finance. 
+In the coming years, I plan to pursue two main research projects in the **Philosophy of AI/ML** and the **Philosophy of Finance**, including the intersection of these two areas. 
 
 Regarding **AI/ML**, I am currently working on the following issues:
 - Mechanistic interpretability of AIs and mentalistic interpretability of humans: similarities and dissimilarities
 - ML/AI-based/facilitated decision-Making under uncertainty and the Uncertainty Quantification problem
 - LLM-based multi-agent systems and the emerging simulation-based philosophical/social science methodology
 I am also interested in other AI/ML-related philosophical issues.
-
-I have recently been on *Toronto Centre Podcasts* by [Toronto Centre](https://torontocentre.org), a global leader in financial regulation, to discuss how the use of AI can have significant impacts on financial regulation. You can listen to the podcast [here](https://blubrry.com/torontocentrepodcasts/141786172/ep-157-artificial-intelligence-and-prudential-supervision/). You can also read my earlier [LSE Philosophy blog article](https://www.lse.ac.uk/philosophy/blog/2024/08/05/how-ai-challenges-prudential-regulation/) on this topic.
 
 Many parts of my works in the **philosophy of finance** flow out from my interest in decision-making under risk and uncertainty and my interest in moral and political philosophy. These include:
 - The normative consequences of the differences among various social groups in terms of the uncertainty about their risks in the context of insurance and banking.

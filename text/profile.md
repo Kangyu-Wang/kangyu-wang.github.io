@@ -10,4 +10,4 @@ I have been on *Toronto Centre Podcasts* by [Toronto Centre](https://torontocent
 
 Ziming Xia (St Andrews/Wharton) and I translated our teacher [Prof. Alex Voorhoeve's](https://personal.lse.ac.uk/voorhoev/) [Conversations on Ethics](https://academic.oup.com/book/49534) into Chinese as [善哉问](https://book.douban.com/subject/37071728/). I occasionally contribute to [上海书评 Shanghai Review of Books](https://www.thepaper.cn/list_26878).
 
-[CV link](/assets/Kangyu_Wang_CV_25.6.18.pdf)
+[CV link](/assets/Kangyu_Wang_CV_25.7.8.pdf)

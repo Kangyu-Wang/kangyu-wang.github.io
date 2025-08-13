@@ -22,6 +22,7 @@ I am also interested in other AI/ML-related philosophical issues.
 Many parts of my works in the **philosophy of finance** flow out from my interest in decision-making under risk and uncertainty and my interest in moral and political philosophy. These include:
 - The normative consequences of the differences among various social groups in terms of the uncertainty about their risks in the context of insurance and banking.
 - The relationship between the risks taken by banks and their power to create money especially in regard to time, duration, and liquidity.
+- The nature of money and the problems of denationalised money
 - Central banking, especially the way central banks inject liquidity and its normative impacts.
 - Social costs of financialization and the power of financiers to manipulate the risk attitudes of other people.
 

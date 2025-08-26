@@ -1,6 +1,6 @@
 Hi! I am a philosopher, working as an Assistant Lecturer at [the Philosophy Department](https://philosophy.hku.hk), [The University of Hong Kong](https://www.hku.hk). Alongside research, I work on HKU's groundbreaking [5-year BA & BEng in AI and Data Science double degree programme](https://admissions.hku.hk/programmes/undergraduate-programmes/bachelor-of-arts-and-bachelor-of-engineering-artificial).
 
-I remain a PhD candidate at [Department of Philosophy, Logic & Scientific Method](https://www.lse.ac.uk/philosophy/), the London School of Economics, supervised by [Dr Campbell Brown](https://philpeople.org/profiles/campbell-brown) and [Dr Kieran Oberman](https://philpeople.org/profiles/kieran-oberman) and previously by [Prof Johanna Thoma](https://johannathoma.com/).
+I was at [Department of Philosophy, Logic & Scientific Method, the London School of Economics & Political Science (LSE)](https://www.lse.ac.uk/philosophy/) for my PhD, supervised by [Dr Campbell Brown](https://philpeople.org/profiles/campbell-brown) and [Dr Kieran Oberman](https://philpeople.org/profiles/kieran-oberman) and previously by [Prof Johanna Thoma](https://johannathoma.com/).
 
 I mainly work on practical reason and decision theory, philosophy of machine learning/artificial intelligence, philosophy of economics and finance, and moral and political philosophy more generally.
 

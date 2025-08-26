@@ -1,1 +1,1 @@
-<img src="assets/weather.png?hour=2025-08-26-05" alt="overcast clouds" width="25" height="25" style="vertical-align:middle;position:relative;top:-1pt;"/> 31&deg;C, overcast clouds in my [**hometown**](https://en.wikipedia.org/wiki/Beijing) now. [**Data source**](https://openweathermap.org/).
+<img src="assets/weather.png?hour=2025-09-19-07" alt="clear sky" width="25" height="25" style="vertical-align:middle;position:relative;top:-1pt;"/> 25&deg;C, clear sky in my [**hometown**](https://en.wikipedia.org/wiki/Beijing) now. [**Data source**](https://openweathermap.org/).

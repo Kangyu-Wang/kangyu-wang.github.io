@@ -14,10 +14,11 @@ For a glimpse of my view on hard choices, you can read this [book review](https:
 In the coming years, I plan to pursue two main research projects in the **Philosophy of AI/ML** and the **Philosophy of Finance**, including the intersection of these two areas. 
 
 Regarding **AI/ML**, I am currently working on the following issues:
-- Mechanistic interpretability of AIs and mentalistic interpretability of humans: similarities and dissimilarities
-- ML/AI-based/facilitated decision-Making under uncertainty and the Uncertainty Quantification problem
-- LLM-based multi-agent systems and the emerging simulation-based philosophical/social science methodology
-I am also interested in other AI/ML-related philosophical issues.
+- Agency
+- Mechanistic interpretability
+- AI decision-Making under uncertainty and Uncertainty Quantification (UQ)
+- LLM-empowered agent-based modeling (ABM)
+- I am also interested in other AI/ML-related philosophical issues.
 
 Many parts of my works in the **philosophy of finance** flow out from my interest in decision-making under risk and uncertainty and my interest in moral and political philosophy. These include:
 - The normative consequences of the differences among various social groups in terms of the uncertainty about their risks in the context of insurance and banking.
@@ -26,6 +27,6 @@ Many parts of my works in the **philosophy of finance** flow out from my interes
 - Central banking, especially the way central banks inject liquidity and its normative impacts.
 - Social costs of financialization and the power of financiers to manipulate the risk attitudes of other people.
 
-I am also collaborating on some issues in philosophy of finance with my friend [Paul Forrester (Yale/Wharton)](https://philosophy.yale.edu/people/paul-forrester). For example, we’ve been thinking about the connection between the divergence in investment returns in the long run between the rich and the poor and the difference in their risk appetites which is largely a matter of brute luck. We are also thinking about the ethics of social capital allocation and the intergenerational distributive inequality of financial assets. I have co-proposed two panels on the Philosophy of Banking together with [Violet Victoria](https://philpeople.org/profiles/violet-victoria) and [Valerie Schreur](https://www.uva.nl/en/profile/s/c/v.schreur/v.schreur.html?cb). More details can be found in my CV.
+I am also collaborating on some issues in philosophy of finance with my friend [Paul Forrester (Yale/Wharton)](https://philosophy.yale.edu/people/paul-forrester). For example, we’ve been thinking about the connection between the divergence in investment returns in the long run between the rich and the poor and the difference in their risk appetites which is largely a matter of brute luck. We are also thinking about the ethics of social capital allocation and the intergenerational distributive inequality of financial assets. I have co-organised two panels on the Philosophy of Banking together with [Violet Victoria](https://philpeople.org/profiles/violet-victoria) and [Valerie Schreur](https://www.uva.nl/en/profile/s/c/v.schreur/v.schreur.html?cb). More details can be found in my CV.
 
 There are also other side-projects. Feel free to contact me if you are interested!

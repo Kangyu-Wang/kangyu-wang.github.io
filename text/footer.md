@@ -1,1 +1,1 @@
-<img src="assets/weather.png?hour=2025-11-28-15" alt="scattered clouds" width="25" height="25" style="vertical-align:middle;position:relative;top:-1pt;"/> -2&deg;C, scattered clouds in my [**hometown**](https://en.wikipedia.org/wiki/Beijing) now. [**Data source**](https://openweathermap.org/).
+<img src="assets/weather.png?hour=2025-11-28-17" alt="few clouds" width="25" height="25" style="vertical-align:middle;position:relative;top:-1pt;"/> -2&deg;C, few clouds in my [**hometown**](https://en.wikipedia.org/wiki/Beijing) now. [**Data source**](https://openweathermap.org/).

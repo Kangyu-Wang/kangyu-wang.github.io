@@ -1,8 +1,11 @@
 ## Teaching
 
-HKU Teaching
+HKU Lecturing
 - **Foundations of AI and Humanity**, Lectures, Starting 2025 September 
 - **Ethics, Society and Law of Artificial Intelligence**, Lectures, Starting 2026 January
+
+Guest Lecturing
+- "AI Agent-based modelling for social science", **PHIL7012 The AI, Ethics and Society Workshop** (an [MA](https://maaies.arts.hku.hk/programmeinformation#:~:text=Examples%20of%20(i)%20include%20academic,their%20portfolio%20throughout%20its%20development.) course), February 2026
 
 LSE Teaching
 - [**The Ethics of Date and Artificial Intelligence**](https://www.lse.ac.uk/study-at-lse/summer-schools/summer-school/courses/research-methods/me102), Seminars, 2025 </br>

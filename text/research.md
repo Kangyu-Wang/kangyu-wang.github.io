@@ -1,4 +1,4 @@
-I’m a philosopher working mainly on decision theory and practical reason, moral and political philosophy, philosophy of economics and finance, and philosophy of AI/ML.
+I’m a philosopher working mainly on decision theory and practical reason, philosophy of AI/ML, philosophy of economics and finance, and moral and political philosophy more generally.
 
 My PhD thesis, titled **Hard Choices and Human Agency**, has five chapters studying the following five questions:
 - Which theory of the nature of practical reason can help us make sense of the presence and resolution of hard choices, that is, decision-making cases in which options are incommensurable? 
@@ -15,18 +15,21 @@ In the coming years, I plan to pursue two main research projects in the **Philos
 
 Regarding **AI/ML**, I am currently working on the following issues:
 - Agency
+- Causal World Model
+- LLM-empowered agent-based modeling (ABM) for social science (with [Chong Liu](https://chong-thu.github.io/LiuChong/))
+- AI for science and its social epistemology (with [Yuhin Chung](https://philosophy.sas.upenn.edu/people/yuhin-chung))
+- The use of AI in warfare (with [Sean Donahue](https://www.seandonahue.org))
+- The epistemology and ethics of AI chatbots and digital advertising (with [Paul Forrester](https://philosophy.yale.edu/people/paul-forrester))
+- State AI expertise and capabilities
 - Mechanistic interpretability
 - AI decision-Making under uncertainty and Uncertainty Quantification (UQ)
-- LLM-empowered agent-based modeling (ABM)
 - I am also interested in other AI/ML-related philosophical issues.
 
-Many parts of my works in the **philosophy of finance** flow out from my interest in decision-making under risk and uncertainty and my interest in moral and political philosophy. These include:
-- The normative consequences of the differences among various social groups in terms of the uncertainty about their risks in the context of insurance and banking.
-- The relationship between the risks taken by banks and their power to create money especially in regard to time, duration, and liquidity.
-- The nature of money and the problems of denationalised money
-- Central banking, especially the way central banks inject liquidity and its normative impacts.
-- Social costs of financialization and the power of financiers to manipulate the risk attitudes of other people.
-
-I am also collaborating on some issues in philosophy of finance with my friend [Paul Forrester (Yale/Wharton)](https://philosophy.yale.edu/people/paul-forrester). For example, we’ve been thinking about the connection between the divergence in investment returns in the long run between the rich and the poor and the difference in their risk appetites which is largely a matter of brute luck. We are also thinking about the ethics of social capital allocation and the intergenerational distributive inequality of financial assets. I have co-organised two panels on the Philosophy of Banking together with [Violet Victoria](https://philpeople.org/profiles/violet-victoria) and [Valerie Schreur](https://www.uva.nl/en/profile/s/c/v.schreur/v.schreur.html?cb). More details can be found in my CV.
+Regarding **finance**, I'm working on the following issues:
+- Investment, risk appetites, and distributive justice (with [Paul Forrester](https://philosophy.yale.edu/people/paul-forrester))
+- The nature of money
+- Central banking, especially the way central banks inject liquidity and its normative impacts
+- Financialization (with [Violet Victoria](https://philpeople.org/profiles/violet-victoria)).
+- Banking and insurance. I co-organised two panels on Philosophy of Banking together with [Violet Victoria](https://philpeople.org/profiles/violet-victoria) and [Valerie Schreur](https://www.uva.nl/en/profile/s/c/v.schreur/v.schreur.html?cb) last year, and will co-organise another on Philosophy of Banking and Insurance with Violet and [Ezekiel Vergara](https://philosophy.sas.upenn.edu/people/ezekiel-vergara) this summer.
 
 There are also other side-projects. Feel free to contact me if you are interested!

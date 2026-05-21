@@ -1,11 +1,11 @@
 I’m a philosopher working mainly on decision theory and practical reason, philosophy of AI/ML, philosophy of economics and finance, and moral and political philosophy more generally.
 
-My PhD thesis, titled **Hard Choices and Human Agency**, has five chapters studying the following five questions:
+My PhD thesis, titled **[Hard Choices and Human Agency](https://researchonline.lse.ac.uk/id/eprint/138467/)**, has five chapters studying the following five questions:
 - Which theory of the nature of practical reason can help us make sense of the presence and resolution of hard choices, that is, decision-making cases in which options are incommensurable? 
 - How is it possible for human agents to genuinely resolve hard choices through deliberation given that options are incommensurable?
 - Why is it that picking arbitrarily when encountering hard choices is fitting in some cases but not in other cases? How should we understand the normative importance of the genuine resolution of hard choices?
 - How should we understand the resolution of hard choices with respect to rational requirements on dynamic decision-making and the notion of temporally extended agency.
-- Why are machine learning agents unable to identify or resolve hard choices? Why does this matter? What does that say about the distinctiveness of human agency? - [arXiv link](http://arxiv.org/abs/2504.15304)
+- Why are machine learning agents unable to identify or resolve hard choices? Why does this matter? What does that say about the distinctiveness of human agency? - **ACM FAccT'26** [arXiv link](http://arxiv.org/abs/2504.15304)
 
 I also study political philosophy, applied ethics, and the meaning in life. More details on my PhD research, side projects, and public engagement can be found in my CV.
 

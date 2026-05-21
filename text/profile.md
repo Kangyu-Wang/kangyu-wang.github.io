@@ -12,4 +12,4 @@ I was on *Toronto Centre Podcasts* by [Toronto Centre](https://torontocentre.org
 
 My friend [Ziming Xia (Wharton)](https://philpeople.org/profiles/ziming-xia) and I translated our teacher Alex Voorhoeve's [Conversations on Ethics](https://academic.oup.com/book/49534) into Chinese as [善哉问](https://book.douban.com/subject/37071728/). I occasionally contribute to [上海书评 Shanghai Review of Books](https://www.thepaper.cn/list_26878).
 
-[CV link](/assets/Kangyu_Wang_CV_26.5.17.pdf)
+[CV link](/assets/Kangyu_Wang_CV_26.5.21.pdf)

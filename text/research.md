@@ -1,6 +1,6 @@
-My research landscape has *[one centre, two basic points](https://zh.wikipedia.org/zh-hans/一个中心、两个基本点)*.
+My research landscape has *one centre, two basic points* [0, 1, 2].
 
-**Centre: decision theory and practical reason**
+**0: Decision theory and practical reason**
 
 My PhD thesis *[Hard Choices and Human Agency](https://researchonline.lse.ac.uk/id/eprint/138467/)* studies:
 - Why are there hard choices, and how can they be genuinely resolved?
@@ -11,7 +11,7 @@ My PhD thesis *[Hard Choices and Human Agency](https://researchonline.lse.ac.uk/
 
 For a glimpse of my view on hard choices, read this [book review](https://www.cambridge.org/core/journals/economics-and-philosophy/article/value-incommensurability-ethics-risk-and-decisionmaking-henrik-andersson-and-anders-herlitz-ed-routledge-2022-viii269-pages/BFD9EB3700CB8E7E70AF95349B0CB656) coauthored with Campbell Brown. 
 
-**Basic point 1: AI**
+**1: AI**
 
 *Solo:*
 - Can AI agents handle hard choices? — **ACM FAccT'26** [arXiv link](http://arxiv.org/abs/2504.15304)
@@ -27,7 +27,7 @@ For a glimpse of my view on hard choices, read this [book review](https://www.ca
 - with [Paul Forrester (Wharton)](https://philosophy.yale.edu/people/paul-forrester): What’s wrong with manipulating AI chatbots for advertising?
 - with [Sean Donahue (HKU Phil)](https://www.seandonahue.org): Can using AI misinformation in a war ever be morally justifiable?
 
-**Basic point 2: finance**
+**2: Finance**
 
 *Solo:*
 - What makes something money, and other things not? — [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6906259)

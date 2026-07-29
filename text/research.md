@@ -1,35 +1,39 @@
-I’m a philosopher working mainly on decision theory and practical reason, philosophy of AI/ML, philosophy of economics and finance, and moral and political philosophy more generally.
+My research landscape has *[one centre, two basic points](https://zh.wikipedia.org/zh-hans/一个中心、两个基本点)*.
 
-My PhD thesis, titled **[Hard Choices and Human Agency](https://researchonline.lse.ac.uk/id/eprint/138467/)**, has five chapters studying the following five questions:
-- Which theory of the nature of practical reason can help us make sense of the presence and resolution of hard choices, that is, decision-making cases in which options are incommensurable? 
-- How is it possible for human agents to genuinely resolve hard choices through deliberation given that options are incommensurable?
-- Why is it that picking arbitrarily when encountering hard choices is fitting in some cases but not in other cases? How should we understand the normative importance of the genuine resolution of hard choices?
-- How should we understand the resolution of hard choices with respect to rational requirements on dynamic decision-making and the notion of temporally extended agency.
-- Why are machine learning agents unable to identify or resolve hard choices? Why does this matter? What does that say about the distinctiveness of human agency? - **ACM FAccT'26** [arXiv link](http://arxiv.org/abs/2504.15304)
+**Centre: decision theory and practical reason**
 
-I also study political philosophy, applied ethics, and the meaning in life. More details on my PhD research, side projects, and public engagement can be found in my CV.
+My PhD thesis *[Hard Choices and Human Agency](https://researchonline.lse.ac.uk/id/eprint/138467/)* studies:
+- Why are there hard choices, and how can they be genuinely resolved?
+- How must we understand practical reasons to make sense of hard choices?
+- Why is flipping a coin, when a choice is hard, fitting in some cases but not in others?
+- To resolve a hard choice is to transform yourself; what does this mean for dynamic decision-making?
+- Are humans alone in facing hard choices?
 
-For a glimpse of my view on hard choices, you can read this [book review](https://www.cambridge.org/core/journals/economics-and-philosophy/article/value-incommensurability-ethics-risk-and-decisionmaking-henrik-andersson-and-anders-herlitz-ed-routledge-2022-viii269-pages/BFD9EB3700CB8E7E70AF95349B0CB656) I coauthored with Campbell Brown. 
+For a glimpse of my view on hard choices, read this [book review](https://www.cambridge.org/core/journals/economics-and-philosophy/article/value-incommensurability-ethics-risk-and-decisionmaking-henrik-andersson-and-anders-herlitz-ed-routledge-2022-viii269-pages/BFD9EB3700CB8E7E70AF95349B0CB656) coauthored with Campbell Brown. 
 
-In the coming years, I plan to pursue two main research projects in the **Philosophy of AI/ML** and the **Philosophy of Finance**, including the intersection of these two areas. 
+**Basic point 1: AI**
 
-Regarding **AI/ML**, I am currently working on the following issues:
-- Agency
-- Causal World Model
-- LLM-empowered agent-based modeling (ABM) for social science (with [Chong Liu](https://chong-thu.github.io/LiuChong/))
-- AI for science and its social epistemology (with [Yuhin Chung](https://philosophy.sas.upenn.edu/people/yuhin-chung))
-- The use of AI in warfare (with [Sean Donahue](https://www.seandonahue.org))
-- The epistemology and ethics of AI chatbots and digital advertising (with [Paul Forrester](https://philosophy.yale.edu/people/paul-forrester))
-- State AI expertise and capabilities
-- Mechanistic interpretability
-- AI decision-Making under uncertainty and Uncertainty Quantification (UQ)
-- I am also interested in other AI/ML-related philosophical issues.
+*Solo:*
+- Can AI agents handle hard choices? — **ACM FAccT'26** [arXiv link](http://arxiv.org/abs/2504.15304)
+- Must rational AIs be causal AIs?
+- How should we deal with AI infrastructures during wars?
+- How (not) to interpret AIs as rational?
 
-Regarding **finance**, I'm working on the following issues:
-- Investment, risk appetites, and distributive justice (with [Paul Forrester](https://philosophy.yale.edu/people/paul-forrester))
-- The nature of money
-- Central banking, especially the way central banks inject liquidity and its normative impacts
-- Financialization (with [Violet Victoria](https://philpeople.org/profiles/violet-victoria)).
-- Banking and insurance. I co-organised two panels on Philosophy of Banking together with [Violet Victoria](https://philpeople.org/profiles/violet-victoria) and [Valerie Schreur](https://www.uva.nl/en/profile/s/c/v.schreur/v.schreur.html?cb) last year, and will co-organise another on Philosophy of Banking and Insurance with Violet and [Ezekiel Vergara](https://philosophy.sas.upenn.edu/people/ezekiel-vergara) this summer.
+*Collab:*
+- with [Chong Liu (PKU Econ)](https://chong-thu.github.io/LiuChong/): How is LLM-agent-based modelling changing social science and policymaking?
+- with [Yuhin Chung (UPenn Phil)](https://philosophy.sas.upenn.edu/people/yuhin-chung): How are AI tools changing the structure of scientific development?
+- with [Yiwen Zhan (PKU Phil)](https://phil.pku.edu.cn/szdw/szll/kxjzzxjys/5906f1e27f9f4c4aacc0e53d46b16afa.htm): What does ‘X is agentic’ mean?
+- with [Benjamin Chen (HKU Law)](https://www.law.hku.hk/academic_staff/benjamin-m-chen/): How will robots change the nature of politics?
+- with [Paul Forrester (Wharton)](https://philosophy.yale.edu/people/paul-forrester): What’s wrong with manipulating AI chatbots for advertising?
+- with [Sean Donahue (HKU Phil)](https://www.seandonahue.org): Can using AI misinformation in a war ever be morally justifiable?
+
+**Basic point 2: finance**
+
+*Solo:*
+- What makes something money, and other things not? — [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6906259)
+
+*Collab:*
+- with [Paul Forrester (Wharton)](https://philosophy.yale.edu/people/paul-forrester): Should risk aversion be compensated as bad luck?
+- with [Violet Victoria (West Virginia Business & Econ)](https://www.violetvictoria.xyz): Is financialisation still bad even when no one does anything wrong?
 
 There are also other side-projects. Feel free to contact me if you are interested!

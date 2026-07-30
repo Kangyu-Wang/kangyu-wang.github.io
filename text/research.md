@@ -16,8 +16,8 @@ For a glimpse of my view on hard choices, read this [book review](https://www.ca
 *Solo:*
 - Can AI agents handle hard choices? — **ACM FAccT'26** [arXiv link](http://arxiv.org/abs/2504.15304)
 - Must rational AIs be causal AIs?
-- How should we deal with AI infrastructures during wars?
 - How (not) to interpret AIs as rational?
+- How should we deal with AI infrastructures during wars?
 
 *Collab:*
 - with [Chong Liu (PKU Econ)](https://chong-thu.github.io/LiuChong/): How is LLM-agent-based modelling changing social science and policymaking?
@@ -31,6 +31,7 @@ For a glimpse of my view on hard choices, read this [book review](https://www.ca
 
 *Solo:*
 - What makes something money, and other things not? — [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6906259)
+- Uncertainty Quantification is a problem; what does that mean for AI4Finance?
 
 *Collab:*
 - with [Paul Forrester (Wharton)](https://philosophy.yale.edu/people/paul-forrester): Should risk aversion be compensated as bad luck?

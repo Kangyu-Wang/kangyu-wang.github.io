@@ -34,7 +34,7 @@ For a glimpse of my view on hard choices, read this [book review](https://www.ca
 - Uncertainty Quantification is a problem; what does that mean for AI4Finance?
 
 *Collab:*
-- with [Paul Forrester (Wharton)](https://philosophy.yale.edu/people/paul-forrester): Should risk aversion be compensated as bad luck?
+- with [Paul Forrester (Wharton)](https://philosophy.yale.edu/people/paul-forrester): Should risk aversion be compensated as bad luck? - **Economics and Philosophy (forthcoming)**
 - with [Violet Victoria (West Virginia Business & Econ)](https://www.violetvictoria.xyz): Is financialisation still bad even when no one does anything wrong?
 
 There are also other side-projects. Feel free to contact me if you are interested!

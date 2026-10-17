@@ -10,6 +10,6 @@ I received an LL.B. Philosophy, Politics and Economics in 2019 from [中国人�
 
 I was on *Toronto Centre Podcasts* by [Toronto Centre](https://torontocentre.org), a global leader in financial regulation, to discuss how the use of AI can have significant impacts on financial regulation. Listen [here](https://www.torontocentre.org/index.php?option=com_content&view=article&id=581&Itemid=99). 
 
-I contribute to [明報 Ming Pao](https://news.mingpao.com/明報新聞網/main) and [上海书评 Shanghai Review of Books](https://www.thepaper.cn/list_26878). Here is my recent piece on [higher education in the AI era](https://news.mingpao.com/p1791993884704) on 明報·觀點. My friend [Ziming Xia (Wharton)](https://philpeople.org/profiles/ziming-xia) and I translated our teacher Alex Voorhoeve's [Conversations on Ethics](https://academic.oup.com/book/49534) into Chinese as [善哉问](https://book.douban.com/subject/37071728/). 
+I contribute to [明報 Ming Pao](https://news.mingpao.com/明報新聞網/main) and [上海书评 Shanghai Review of Books](https://www.thepaper.cn/list_26878). Here is my recent piece on [higher education in the AI era](https://news.mingpao.com/p1791993884704) on 明報. My friend [Ziming Xia (Wharton)](https://philpeople.org/profiles/ziming-xia) and I translated our teacher Alex Voorhoeve's [Conversations on Ethics](https://academic.oup.com/book/49534) into Chinese as [善哉问](https://book.douban.com/subject/37071728/). 
 
 [CV link](/assets/Kangyu_Wang_CV_26.10.12.pdf)

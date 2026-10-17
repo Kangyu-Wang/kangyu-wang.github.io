@@ -13,13 +13,16 @@ For a glimpse of my view on hard choices, read this [book review](https://www.ca
 
 **1: AI**
 
-*Solo:*
-- Can AI agents handle hard choices? — **ACM FAccT'26** [arXiv link](http://arxiv.org/abs/2504.15304)
+*Accepted:*
+- **Kangyu Wang**, [**Can AI agents handle hard choices?**](http://arxiv.org/abs/2504.15304), *ACM FAccT'26*
+
+*Ongoing, solo:*
+- Can some LLM agents be non-bullshitters?
 - Must rational AIs be causal AIs?
 - How (not) to interpret AIs as rational?
 - How should we deal with AI infrastructures during wars?
 
-*Collab:*
+*Ongoing, collab:*
 - with [Chong Liu (PKU Econ)](https://chong-thu.github.io/LiuChong/): How is LLM-agent-based modelling changing social science and policymaking?
 - with [Yuhin Chung (UPenn Phil)](https://philosophy.sas.upenn.edu/people/yuhin-chung): How are AI tools changing the structure of scientific development?
 - with [Yiwen Zhan (PKU Phil)](https://phil.pku.edu.cn/szdw/szll/kxjzzxjys/5906f1e27f9f4c4aacc0e53d46b16afa.htm): What does ‘X is agentic’ mean?
@@ -29,12 +32,14 @@ For a glimpse of my view on hard choices, read this [book review](https://www.ca
 
 **2: Finance**
 
-*Solo:*
+*Accepted:*
+- **Kangyu Wang** (first and correspondence) and [Paul Forrester (Wharton)](https://philosophy.yale.edu/people/paul-forrester), **Risk Appetites, Investment Returns, and Distributive Justice**, *Economics and Philosophy*
+
+*Ongoing, solo:*
 - What makes something money, and other things not? — [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6906259)
 - Uncertainty Quantification is a problem; what does that mean for AI4Finance?
 
-*Collab:*
-- with [Paul Forrester (Wharton)](https://philosophy.yale.edu/people/paul-forrester): Should risk aversion be compensated as bad luck? - **Economics and Philosophy (forthcoming)**
+*Ongoing, collab:*
 - with [Violet Victoria (West Virginia Business & Econ)](https://www.violetvictoria.xyz): Is financialisation still bad even when no one does anything wrong?
 
 There are also other side-projects. Feel free to contact me if you are interested!

@@ -1,0 +1,56 @@
+<!doctype html>
+<!-- Generated from text/*.md. Run node build.mjs after editing the Markdown files. -->
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="{{description}}">
+  <title>{{page_title}} · {{name}} {{chinese_name}}</title>
+  <link rel="stylesheet" href="{{root}}assets/site.css">
+  <script defer src="{{root}}assets/weather.js"></script>
+  <script defer src="{{root}}assets/portrait.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <div class="spread">
+    <div class="rail">
+      <div class="rail-inner">
+        <header class="cover">
+          <div class="identity">
+            <a class="name" href="{{root}}index.html">{{name}} <span lang="zh-Hant">{{chinese_name}}</span></a>
+            <a id="portrait-trigger" class="portrait-link" href="#photo-view" aria-haspopup="dialog" aria-label="Enlarge photo of {{name}}">
+              <img class="portrait" src="{{portrait}}" alt="{{name}}" width="720" height="720">
+              <svg class="zoom-mark" aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round">
+                <circle cx="10" cy="10" r="6.5"/><path d="m15 15 5 5M7 10h6m-3-3v6"/>
+              </svg>
+            </a>
+          </div>
+          <nav class="contents" aria-label="Main navigation">
+{{navigation}}
+          </nav>
+          <div class="contacts">
+{{contact}}
+          </div>
+        </header>
+        <footer class="weather">
+          <p>{{footer}}<span id="weather-status" aria-live="polite" hidden> · <a id="weather-source" href="https://open-meteo.com/en/licence"><span id="weather-icon" aria-hidden="true"></span><span id="weather-reading"></span><span class="visually-hidden"> (weather data by Open-Meteo, CC BY 4.0)</span></a><span id="weather-error" hidden>Weather unavailable</span></span></p>
+        </footer>
+      </div>
+    </div>
+    <div class="page">
+      <main id="main" class="{{page_class}}" tabindex="-1">
+        <h1 class="visually-hidden">{{page_title}}</h1>
+{{content}}
+      </main>
+    </div>
+  </div>
+  <section id="photo-view" class="photo-view" role="dialog" aria-label="Photo of {{name}}" tabindex="-1">
+    <a class="photo-backdrop" href="#portrait-trigger" aria-hidden="true" tabindex="-1"></a>
+    <div class="photo-card">
+      <a class="photo-close" href="#portrait-trigger">Close <span aria-hidden="true">×</span></a>
+      <img src="{{large_portrait}}" alt="{{name}} {{chinese_name}}" width="1440" height="1440" loading="lazy">
+    </div>
+  </section>
+</body>
+</html>

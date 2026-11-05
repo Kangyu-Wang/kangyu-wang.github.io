@@ -145,6 +145,8 @@ export async function build(root = projectRoot) {
   try {
     await mkdir(next);
     await cp(path.join(root, "assets"), path.join(next, "assets"), { recursive: true });
+    // Also serve the conventional root icon for browsers and saved bookmarks.
+    await cp(path.join(root, "assets/favicon.ico"), path.join(next, "favicon.ico"));
     for (const page of rendered) {
       const filename = path.join(next, page.output);
       await mkdir(path.dirname(filename), { recursive: true });

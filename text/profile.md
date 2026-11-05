@@ -2,7 +2,7 @@ Hi! I am a philosopher, working as an [Assistant Lecturer](https://philosophy.hk
 
 Alongside research and teaching, I work on developing and coordinating HKU's new [5-year BA & BEng in AI and Data Science double degree programme](https://aidata.arts.hku.hk). I am an inaugural Resident Fellow at [Hong Kong Global AI Governance Hub](https://hkgagh.hku.hk) and a Research Affiliate at HKU [AI & Humanity Lab](https://ai-humanity.net).
 
-I mainly work on practical reason and decision theory, philosophy of machine learning/artificial intelligence, philosophy of economics and finance, and moral and political philosophy more generally. Above all else, I'm exploring the intersection of decision theory and computer science. For a work I presented at the cross-disciplinary [ACM FAccT 2026](https://facctconference.org/2026/index.html), see [here](https://arxiv.org/abs/2504.15304). See the [Research page](research.md) for my other projects.
+I mainly work on practical reason and decision theory, philosophy of machine learning/artificial intelligence, philosophy of economics and finance, and moral and political philosophy more generally. Above all else, I'm exploring the intersection of decision theory and computer science. For a work I presented at [ACM FAccT 2026](https://facctconference.org/2026/index.html), see [here](https://arxiv.org/abs/2504.15304). See the [Research page](research.md) for my other projects.
 
 ## Education and visits
 

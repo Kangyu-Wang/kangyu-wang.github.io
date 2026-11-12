@@ -25,10 +25,10 @@ For a glimpse of my view on hard choices, read this [book review](https://www.ca
 - How (not) to interpret AIs as rational?
 - How should we deal with AI infrastructures during wars?
 
-#### Ongoing, collab:
+### Ongoing, collab:
 
+- with [Yuhin Chung (UPenn Phil)](https://philosophy.sas.upenn.edu/people/yuhin-chung), equal contribution: AI for Science and the dynamics of scientific progress [*Zenodo Preprint*](https://doi.org/10.5281/zenodo.24156379)
 - with [Chong Liu (PKU Econ)](https://chong-thu.github.io/LiuChong/): How is LLM-agent-based modelling changing social science and policymaking?
-- with [Yuhin Chung (UPenn Phil)](https://philosophy.sas.upenn.edu/people/yuhin-chung): How are AI tools changing the structure of scientific development?
 - with [Yiwen Zhan (PKU Phil)](https://phil.pku.edu.cn/szdw/szll/kxjzzxjys/5906f1e27f9f4c4aacc0e53d46b16afa.htm): What does ‘X is agentic’ mean?
 - with [Benjamin Chen (HKU Law)](https://www.law.hku.hk/academic_staff/benjamin-m-chen/): How will robots change the nature of politics?
 - with [Paul Forrester (Wharton)](https://philosophy.yale.edu/people/paul-forrester): What’s wrong with manipulating AI chatbots for advertising?
@@ -45,7 +45,7 @@ For a glimpse of my view on hard choices, read this [book review](https://www.ca
 - **On Moneyness: An Infrastructural View** — [*SSRN Preprint*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6906259)
 - Uncertainty Quantification is a problem; what does that mean for AI4Finance?
 
-#### Ongoing, collab:
+### Ongoing, collab:
 
 - with [Violet Victoria (West Virginia Business & Econ)](https://www.violetvictoria.xyz): Is financialisation still bad even when no one does anything wrong?
 

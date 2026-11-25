@@ -25,7 +25,7 @@ My PhD thesis *[Hard Choices and Human Agency](https://researchonline.lse.ac.uk/
 
 ### Submitted:
 
-- **Lean Agents Do Not Bullshit**, [*Zenodo Preprint*](https://doi.org/10.5281/zenodo.23890349)
+- **Lean Agents Do Not Bullshit**, [*Zenodo Preprint*](https://doi.org/10.5281/zenodo.24536544)
 - **Kangyu Wang** (first and correspondence) and [Chong Liu (PKU Econ)](https://chong-thu.github.io/LiuChong/), **Do language models dream of human societies?**
 - **Kangyu Wang** (correspondence) and [Yuhin Chung (UPenn Phil)](https://philosophy.sas.upenn.edu/people/yuhin-chung), equal contribution, **AI for Science and the dynamics of scientific progress** [*Zenodo Preprint*](https://doi.org/10.5281/zenodo.24156379); [*Demo (Codex-ed)*](https://ai4s-scientific-progress.sunny-clock-3163.chatgpt.site/#access/composition)
 

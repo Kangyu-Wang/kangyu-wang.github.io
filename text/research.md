@@ -10,25 +10,33 @@ My PhD thesis *[Hard Choices and Human Agency](https://researchonline.lse.ac.uk/
 - To resolve a hard choice is to transform yourself; what does this mean for dynamic decision-making?
 - Are humans alone in facing hard choices?
 
-For a glimpse of my view on hard choices, read this [book review](https://www.cambridge.org/core/journals/economics-and-philosophy/article/value-incommensurability-ethics-risk-and-decisionmaking-henrik-andersson-and-anders-herlitz-ed-routledge-2022-viii269-pages/BFD9EB3700CB8E7E70AF95349B0CB656) coauthored with Campbell Brown.
+### Submitted:
+
+- **Two Problems for Voluntarism about Practical Reason**
+
+### Book Review:
+- **Kangyu Wang** and [Campbell Brown](https://www.lse.ac.uk/people/campbell-brown), [**Value Incommensurability: Ethics, Risk, and Decision-Making**](https://www.cambridge.org/core/journals/economics-and-philosophy/article/value-incommensurability-ethics-risk-and-decisionmaking-henrik-andersson-and-anders-herlitz-ed-routledge-2022-viii269-pages/BFD9EB3700CB8E7E70AF95349B0CB656)
 
 ## 1: AI
 
 ### Accepted:
 
-- **Kangyu Wang**, [*Can AI agents handle hard choices?*](https://arxiv.org/abs/2504.15304), *ACM FAccT'26*
+- **Kangyu Wang**, [**Can AI agents handle hard choices?**](https://arxiv.org/abs/2504.15304), *ACM FAccT'26*
+
+### Submitted:
+
+- **Lean Agents Do Not Bullshit**, [*Zenodo Preprint*](https://doi.org/10.5281/zenodo.23890349)
+- **Kangyu Wang** (first and correspondence) and [Chong Liu (PKU Econ)](https://chong-thu.github.io/LiuChong/), **Do language models dream of human societies?**
+- **Kangyu Wang** (correspondence) and [Yuhin Chung (UPenn Phil)](https://philosophy.sas.upenn.edu/people/yuhin-chung), equal contribution, **AI for Science and the dynamics of scientific progress** [*Zenodo Preprint*](https://doi.org/10.5281/zenodo.24156379); [*Demo (Codex-ed)*](https://ai4s-scientific-progress.sunny-clock-3163.chatgpt.site/#access/composition)
 
 ### Ongoing, solo:
 
-- **Lean Agents Do Not Bullshit**, [*Zenodo Preprint*](https://doi.org/10.5281/zenodo.23890349)
-- Must rational AIs be causal AIs?
 - How (not) to interpret AIs as rational?
+- Must rational AIs be causal AIs?
 - How should we deal with AI infrastructures during wars?
 
 ### Ongoing, collab:
 
-- with [Yuhin Chung (UPenn Phil)](https://philosophy.sas.upenn.edu/people/yuhin-chung), equal contribution: **AI for Science and the dynamics of scientific progress** [*Zenodo Preprint*](https://doi.org/10.5281/zenodo.24156379); [*Demo (Codex-ed)*](https://ai4s-scientific-progress.sunny-clock-3163.chatgpt.site/#access/composition)
-- with [Chong Liu (PKU Econ)](https://chong-thu.github.io/LiuChong/): How is LLM-agent-based modelling changing social science and policymaking?
 - with [Yiwen Zhan (PKU Phil)](https://phil.pku.edu.cn/szdw/szll/kxjzzxjys/5906f1e27f9f4c4aacc0e53d46b16afa.htm): What does ‘X is agentic’ mean?
 - with [Benjamin Chen (HKU Law)](https://www.law.hku.hk/academic_staff/benjamin-m-chen/): How will robots change the nature of politics?
 - with [Paul Forrester (Wharton)](https://philosophy.yale.edu/people/paul-forrester): What’s wrong with manipulating AI chatbots for advertising?

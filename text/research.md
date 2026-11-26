@@ -46,7 +46,7 @@ My PhD thesis *[Hard Choices and Human Agency](https://researchonline.lse.ac.uk/
 
 ### Accepted:
 
-- **Kangyu Wang** (first and correspondence) and [Paul Forrester (Wharton)](https://philosophy.yale.edu/people/paul-forrester), **Risk Appetites, Investment Returns, and Distributive Justice**, *Economics and Philosophy*
+- **Kangyu Wang** (first and correspondence) and [Paul Forrester (Wharton)](https://philosophy.yale.edu/people/paul-forrester), [**Risk Appetites, Investment Returns, and Distributive Justice (FirstView, Open Access)**](https://www.cambridge.org/core/journals/economics-and-philosophy/article/risk-appetites-investment-returns-and-distributive-justice/0FC5D41E5925BEA7EF58B2A9CF4BBEB6), *Economics and Philosophy*
 
 ### Ongoing, solo:
 
